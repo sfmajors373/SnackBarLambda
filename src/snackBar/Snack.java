@@ -1,4 +1,4 @@
-package snackBar
+package snackBar;
 // needs id, name, quantity, cost, vending machine id
 
 

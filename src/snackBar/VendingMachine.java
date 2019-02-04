@@ -5,7 +5,7 @@ package snackBar;
 public class VendingMachine
 {
     private static int maxId = 0;
-    private int id;
+    public int id;
     private String name;
 
     public VendingMachine(String name)
